@@ -1,0 +1,4 @@
+D:\TestProject\TestApp.DataAccess\obj\Debug\TestApp.DataAccess.csprojAssemblyReference.cache
+D:\TestProject\TestApp.DataAccess\obj\Debug\TestApp.DataAccess.csproj.CoreCompileInputs.cache
+F:\Project_2019\TestProject\TestApp.DataAccess\obj\Debug\TestApp.DataAccess.csprojResolveAssemblyReference.cache
+F:\Project_2019\TestProject\TestApp.DataAccess\obj\Debug\TestApp.DataAccess.csproj.CoreCompileInputs.cache

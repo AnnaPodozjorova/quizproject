@@ -1,0 +1,17 @@
+F:\Project_2019\TestProject\ClassLibrary1\bin\Debug\netcoreapp2.0\TestApp.Domain.deps.json
+F:\Project_2019\TestProject\ClassLibrary1\bin\Debug\netcoreapp2.0\TestApp.Domain.dll
+F:\Project_2019\TestProject\ClassLibrary1\bin\Debug\netcoreapp2.0\TestApp.Domain.pdb
+F:\Project_2019\TestProject\ClassLibrary1\obj\Debug\netcoreapp2.0\TestApp.Domain.csproj.CoreCompileInputs.cache
+F:\Project_2019\TestProject\ClassLibrary1\obj\Debug\netcoreapp2.0\TestApp.Domain.AssemblyInfoInputs.cache
+F:\Project_2019\TestProject\ClassLibrary1\obj\Debug\netcoreapp2.0\TestApp.Domain.AssemblyInfo.cs
+F:\Project_2019\TestProject\ClassLibrary1\obj\Debug\netcoreapp2.0\TestApp.Domain.dll
+F:\Project_2019\TestProject\ClassLibrary1\obj\Debug\netcoreapp2.0\TestApp.Domain.pdb
+C:\Users\User\Desktop\TestProject\ClassLibrary1\bin\Debug\netcoreapp2.0\TestApp.Domain.deps.json
+C:\Users\User\Desktop\TestProject\ClassLibrary1\bin\Debug\netcoreapp2.0\TestApp.Domain.dll
+C:\Users\User\Desktop\TestProject\ClassLibrary1\bin\Debug\netcoreapp2.0\TestApp.Domain.pdb
+C:\Users\User\Desktop\TestProject\ClassLibrary1\obj\Debug\netcoreapp2.0\TestApp.Domain.csprojAssemblyReference.cache
+C:\Users\User\Desktop\TestProject\ClassLibrary1\obj\Debug\netcoreapp2.0\TestApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TestProject\ClassLibrary1\obj\Debug\netcoreapp2.0\TestApp.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TestProject\ClassLibrary1\obj\Debug\netcoreapp2.0\TestApp.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\TestProject\ClassLibrary1\obj\Debug\netcoreapp2.0\TestApp.Domain.dll
+C:\Users\User\Desktop\TestProject\ClassLibrary1\obj\Debug\netcoreapp2.0\TestApp.Domain.pdb
